@@ -1,0 +1,2 @@
+# No explicit name: field - bundle name derived from gitrepo name + path,
+# always sanitized by HelmReleaseName, always <=53 chars.

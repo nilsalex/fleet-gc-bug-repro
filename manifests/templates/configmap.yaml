@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: fleet-gc-bug-repro
+  namespace: default
+data:
+  hello: world
